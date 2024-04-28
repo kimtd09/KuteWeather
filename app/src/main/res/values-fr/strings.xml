@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kute Weather</string>
+    <string name="last_updated">mise à jour :</string>
+    <string name="wind">Vent</string>
+    <string name="humidity">Humidité</string>
+    <string name="feel">(ressenti)</string>
+    <string name="temp">Temp</string>
+    <string name="language">Langue</string>
+    <string name="language_english">Anglais</string>
+    <string name="language_french">Français</string>
+    <string name="set_language">Choisir la langue</string>
+    <string name="units">Unités</string>
+    <string name="temperature_title">Température</string>
+    <string name="city">Ville</string>
+    <string name="coordinates">Coordonnées</string>
+    <string name="country">Pays</string>
+    <string name="get_weather">Météo</string>
+    <string name="today">Aujourd\'hui</string>
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Kute Weather</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_search">Search</string>
+    <string name="last_updated">last updated:</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="feel">(feel)</string>
+    <string name="temp">Temp</string>
+    <string name="temperature_title">Temperature</string>
+
+    <string name="celsius_unit" translatable="false">°C</string>
+    <string name="fahrenheit_unit" translatable="false">°F</string>
+    <string name="wind_kph" translatable="false">km/h</string>
+    <string name="wind_mph" translatable="false">mph</string>
+
+    <!-- Preference Titles -->
+    <string name="language">Language</string>
+    <string name="units">Units</string>
+
+    <!-- Language Preferences -->
+    <string name="language_english">English</string>
+    <string name="language_french">French</string>
+
+    <!-- Key List -->
+    <string name="key_preference_language" translatable="false">list_preference_languages</string>
+    <string name="key_preference_temperature" translatable="false">key_preference_temperatures</string>
+    <string name="key_preference_wind" translatable="false">key_preference_winds</string>
+    <string name="city">City</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="country">Country</string>
+    <string name="get_weather">get weather</string>
+    <string name="today">Today</string>
+</resources>
